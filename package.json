@@ -1,0 +1,9 @@
+{
+   "name": "Doodle",
+   "description": "Collaborative drawing canvas",
+   "author": "Aditya",
+   "dependencies" : {
+      "express": "4.x",
+      "socket.io": "*"
+   }
+}
